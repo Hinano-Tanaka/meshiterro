@@ -1,24 +1,28 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## アプリケーションを完成させよう２
 
-Things you may want to cover:
+* Meshiterro
 
-* Ruby version
+<!--This README would normally document whatever steps are necessary to get the-->
+<!--application up and running.-->
 
-* System dependencies
+<!--Things you may want to cover:-->
 
-* Configuration
+<!--* Ruby version-->
 
-* Database creation
+<!--* System dependencies-->
 
-* Database initialization
+<!--* Configuration-->
 
-* How to run the test suite
+<!--* Database creation-->
 
-* Services (job queues, cache servers, search engines, etc.)
+<!--* Database initialization-->
 
-* Deployment instructions
+<!--* How to run the test suite-->
 
-* ...
+<!--* Services (job queues, cache servers, search engines, etc.)-->
+
+<!--* Deployment instructions-->
+
+<!--* ...-->
